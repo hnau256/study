@@ -386,9 +386,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="387.49724"
-     inkscape:cy="718.10167"
+     inkscape:zoom="0.25"
+     inkscape:cx="1078.0098"
+     inkscape:cy="330.73808"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -836,6 +836,39 @@
          y="492.87271"
          x="-1128.7841"
          sodipodi:role="line"
-         id="tspan1378-0">Обозначают &quot;Включает&quot;</tspan></text>
+         id="tspan1378-0">Обозначают &quot;Требует&quot;</tspan></text>
+    <g
+       transform="translate(-8.8036263,996.14972)"
+       id="g1055-7-0-3">
+      <ellipse
+         ry="90.5"
+         rx="143"
+         cy="400.76883"
+         cx="184.61685"
+         id="path5420-5-0-9-0"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.99697974,1.0030294)"
+         id="text843-9-93-1-9"
+         y="382.15009"
+         x="184.80051"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+         xml:space="preserve"><tspan
+           id="tspan1037-0-7-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:28px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:1"
+           y="382.15009"
+           x="188.36821"
+           sodipodi:role="line">Получение списка </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:28px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:1"
+           y="410.15009"
+           x="188.36821"
+           sodipodi:role="line"
+           id="tspan2037">подтвержденных </tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:28px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;word-spacing:0px;text-anchor:middle;stroke-width:1"
+           y="438.15009"
+           x="184.80051"
+           sodipodi:role="line"
+           id="tspan2039">предприятий</tspan></text>
+    </g>
   </g>
 </svg>
