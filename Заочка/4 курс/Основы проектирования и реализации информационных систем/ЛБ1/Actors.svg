@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1024"
+   height="1024"
+   viewBox="0 0 1024 1024.0001"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Actors.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2353"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2351"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1993"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="EmptyTriangleOutL"
+       inkscape:collect="always">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path1991" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1033"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="249.1759"
+     inkscape:cy="516.53771"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       empspacing="64" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-98.51966)">
+    <path
+       id="path831"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 101.88786,503.14261 a 12,12.072816 0 0 1 -12,12.07282 12,12.072816 0 0 1 -12,-12.07282 12,12.072816 0 0 1 12,-12.07281 12,12.072816 0 0 1 12,12.07281 z m -28,20.12136 h 32 m -16,16.09713 v -24.14567 m -16,40.24267 16,-16.097 16,16.097"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 101.88786,693.6281 a 12,12.072816 0 0 1 -12,12.0728 12,12.072816 0 0 1 -12,-12.0728 12,12.072816 0 0 1 12,-12.0729 12,12.072816 0 0 1 12,12.0729 z m -28,20.1213 h 32 m -16,16.0971 v -24.1456 m -16,40.2427 16,-16.0971 16,16.0971"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path835" />
+    <path
+       id="path837"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 274.88786,593.3853 a 12,12.072816 0 0 1 -12,12.0728 12,12.072816 0 0 1 -12,-12.0728 12,12.072816 0 0 1 12,-12.0728 12,12.072816 0 0 1 12,12.0728 z m -28,20.1214 h 32 m -16,16.0971 v -24.1457 m -16,40.2428 16,-16.0971 16,16.0971"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 264.88786,834.1135 a 12,12.072816 0 0 1 -12,12.0728 12,12.072816 0 0 1 -12,-12.0728 12,12.072816 0 0 1 12,-12.0728 12,12.072816 0 0 1 12,12.0728 z m -28,20.1213 h 32 m -16,16.0971 v -24.1456 m -16,40.2427 16,-16.0971 16,16.0971"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path839" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.69898033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="42.014751"
+       y="573.84131"
+       id="text843"
+       transform="scale(0.99697975,1.0030294)"><tspan
+         sodipodi:role="line"
+         id="tspan841"
+         x="42.014751"
+         y="573.84131"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';stroke-width:1">Пользователь</tspan></text>
+    <text
+       id="text847"
+       y="763.75092"
+       x="91.423347"
+       style="font-style:normal;font-weight:normal;font-size:10.69898033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       transform="scale(0.99697975,1.0030294)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;line-height:0.1;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;stroke-width:1"
+         y="763.75092"
+         x="91.423347"
+         id="tspan845"
+         sodipodi:role="line">Зарегистрированный</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;line-height:0.1;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;stroke-width:1"
+         y="777.12463"
+         x="91.423347"
+         sodipodi:role="line"
+         id="tspan851">пользователь</tspan></text>
+    <text
+       id="text859"
+       y="903.8114"
+       x="200.22627"
+       style="font-style:normal;font-weight:normal;font-size:10.69898033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       xml:space="preserve"
+       transform="scale(0.99697975,1.0030294)"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';stroke-width:1"
+         y="903.8114"
+         x="200.22627"
+         id="tspan857"
+         sodipodi:role="line">Администратор</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.69898033px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1"
+       x="263.18661"
+       y="663.81122"
+       id="text869"
+       transform="scale(0.99697975,1.0030294)"><tspan
+         sodipodi:role="line"
+         id="tspan865"
+         x="263.18661"
+         y="663.81122"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;line-height:0.1;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;stroke-width:1">Простой</tspan><tspan
+         id="tspan867"
+         sodipodi:role="line"
+         x="263.18661"
+         y="677.18494"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.04846954px;line-height:0.1;font-family:'PT Sans';-inkscape-font-specification:'PT Sans';text-align:center;text-anchor:middle;stroke-width:1">пользователь</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#EmptyTriangleOutL)"
+       d="M 90.922836,661.9461 90.596597,592.8605"
+       id="path871"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1989"
+       d="M 226.37363,621.1201 130.6418,695.6214"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1993)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2353)"
+       d="M 217.70206,864.778 112.62708,791.0184"
+       id="path2349"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
