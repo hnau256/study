@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="787.61273"
+   height="330.82742"
+   viewBox="0 0 787.61275 330.82746"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="Classes.svg"
+   inkscape:export-filename="/mnt/files/files/study/Заочка/4 курс/Основы проектирования и реализации информационных систем/ЛБ1/Actors.png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1305"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1671"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 Z"
+         id="path1669"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1660"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path1658"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path958"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Sstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path964"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.2,0,0,0.2,1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1490"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         id="path1488"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker2353"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path2351"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="100.83647"
+     inkscape:cy="138.04582"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       empspacing="64"
+       originx="121.53335"
+       originy="-284.12859" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(121.53334,-507.56378)">
+    <g
+       id="g1168"
+       transform="translate(-55)">
+      <text
+         id="text916"
+         y="528.11926"
+         x="-61.973724"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan918"
+           y="528.11926"
+           x="-61.973724"
+           sodipodi:role="line">Пользователь</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="M -66.033344,535.34125 H 81.57939 v 77.27626 H -66.033344 Z m 0,77.27368 H 81.57939 v 57.27626 H -66.033344 Z m 0,-104.55115 H 81.57939 v 27.27627 H -66.033344 Z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect926" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="-61.973724"
+         y="545.11926"
+         id="text950"><tspan
+           sodipodi:role="line"
+           x="-61.973724"
+           y="545.11926"
+           id="tspan948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ email: String</tspan><tspan
+           id="tspan952"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="557.63873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">- password: String</tspan><tspan
+           id="tspan976"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="570.15814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">- identificationToken: String</tspan><tspan
+           id="tspan958"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="582.67761"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ admin: Boolean</tspan><tspan
+           id="tspan954"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="595.19702"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ emailActivated: Boolean</tspan><tspan
+           id="tspan972"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="607.71649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ emailActiveToken: String</tspan></text>
+      <text
+         id="text970"
+         y="625.11926"
+         x="-61.973724"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="625.11926"
+           x="-61.973724"
+           sodipodi:role="line"
+           id="tspan968">+ login(</tspan><tspan
+           id="tspan992"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="637.63873"
+           x="-61.973724"
+           sodipodi:role="line">     email: String, </tspan><tspan
+           id="tspan994"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="650.15814"
+           x="-61.973724"
+           sodipodi:role="line">     password: String</tspan><tspan
+           id="tspan998"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="662.67761"
+           x="-61.973724"
+           sodipodi:role="line">): String</tspan></text>
+    </g>
+    <g
+       id="g1219">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="98.026276"
+         y="528.11926"
+         id="text1004"><tspan
+           sodipodi:role="line"
+           x="98.026276"
+           y="528.11926"
+           id="tspan1002"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">Предприятие</tspan></text>
+      <path
+         id="path1006"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 93.966656,535.34125 H 241.57939 V 638.61751 H 93.966656 Z m 0,103.27368 H 241.57939 v 92.27626 H 93.966656 Z m 0,-130.55115 H 241.57939 v 27.27627 H 93.966656 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <text
+         id="text1020"
+         y="545.9046"
+         x="98.041206"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1008"
+           y="545.9046"
+           x="98.041206"
+           sodipodi:role="line">+ name: String</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="558.42407"
+           x="98.041206"
+           sodipodi:role="line"
+           id="tspan1010">+ address: String</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="570.94348"
+           x="98.041206"
+           sodipodi:role="line"
+           id="tspan1012">+ phone: String</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="583.46295"
+           x="98.041206"
+           sodipodi:role="line"
+           id="tspan1014">+ fax: String</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="595.98236"
+           x="98.041206"
+           sodipodi:role="line"
+           id="tspan1016">+ creatorEmail: Boolean</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="608.50183"
+           x="98.041206"
+           sodipodi:role="line"
+           id="tspan1018">+ creatorName: String</tspan><tspan
+           id="tspan1036"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="621.02124"
+           x="98.041206"
+           sodipodi:role="line">+ url: String</tspan><tspan
+           id="tspan1040"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="633.54071"
+           x="98.041206"
+           sodipodi:role="line">+ confirmed: Boolean</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="98.026283"
+         y="649.11926"
+         id="text1030"><tspan
+           sodipodi:role="line"
+           x="98.026283"
+           y="649.11926"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1028">+ update(</tspan><tspan
+           id="tspan1053"
+           sodipodi:role="line"
+           x="98.026283"
+           y="661.63873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">     address: String</tspan><tspan
+           id="tspan1055"
+           sodipodi:role="line"
+           x="98.026283"
+           y="674.15814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">     phone: String</tspan><tspan
+           id="tspan1059"
+           sodipodi:role="line"
+           x="98.026283"
+           y="686.67761"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">     fax: String</tspan><tspan
+           id="tspan1061"
+           sodipodi:role="line"
+           x="98.026283"
+           y="699.19702"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">     creatorName: String</tspan><tspan
+           id="tspan1065"
+           sodipodi:role="line"
+           x="98.026283"
+           y="711.71649"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">     url: String</tspan><tspan
+           id="tspan1051"
+           sodipodi:role="line"
+           x="98.026283"
+           y="724.2359"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">)</tspan></text>
+    </g>
+    <g
+       id="g1180"
+       transform="translate(381.83766,-43.133513)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="-61.973724"
+         y="698.11926"
+         id="text1071"><tspan
+           sodipodi:role="line"
+           x="-61.973724"
+           y="698.11926"
+           id="tspan1069"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">Капча</tspan></text>
+      <path
+         id="path1073"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M -66.033344,705.34125 H 81.57939 v 27.27626 H -66.033344 Z m 0,27.27368 H 81.57939 v 46.27626 H -66.033344 Z m 0,-54.55115 H 81.57939 v 27.27627 H -66.033344 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <text
+         id="text1087"
+         y="715.11926"
+         x="-61.973724"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1075"
+           y="715.11926"
+           x="-61.973724"
+           sodipodi:role="line">+ token: String</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="727.63873"
+           x="-61.973724"
+           sodipodi:role="line"
+           id="tspan1085">- text: String</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="-61.973724"
+         y="745.11926"
+         id="text1097"><tspan
+           id="tspan1089"
+           sodipodi:role="line"
+           x="-61.973724"
+           y="745.11926"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ check(</tspan><tspan
+           sodipodi:role="line"
+           x="-61.973724"
+           y="757.63873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1093">     text: String</tspan><tspan
+           sodipodi:role="line"
+           x="-61.973724"
+           y="770.15814"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1095">): Boolean</tspan></text>
+    </g>
+    <g
+       id="g1197"
+       transform="translate(424,-230)">
+      <text
+         id="text1121"
+         y="758.11926"
+         x="98.026283"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1119"
+           y="758.11926"
+           x="98.026283"
+           sodipodi:role="line">Рубрика</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="m 93.96666,765.34125 h 147.61273 v 27.27626 H 93.96666 Z m 0,27.27368 h 147.61273 v 6.27626 H 93.96666 Z m 0,-54.55115 h 147.61273 v 27.27627 H 93.96666 Z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1123" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="98.026283"
+         y="775.11926"
+         id="text1129"><tspan
+           sodipodi:role="line"
+           x="98.026283"
+           y="775.11926"
+           id="tspan1125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ id: Long</tspan><tspan
+           id="tspan1127"
+           sodipodi:role="line"
+           x="98.026283"
+           y="787.63873"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">+ name: String</tspan></text>
+    </g>
+    <g
+       id="g1189"
+       transform="translate(210,-300)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:8.42834663px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         x="98.026283"
+         y="828.11926"
+         id="text1141"><tspan
+           sodipodi:role="line"
+           x="98.026283"
+           y="828.11926"
+           id="tspan1139"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:8.42834663px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">Рубрика</tspan><tspan
+           id="tspan1151"
+           sodipodi:role="line"
+           x="98.026283"
+           y="842.61823"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:8.42834663px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">предприятия</tspan></text>
+      <path
+         id="path1143"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 93.96666,849.34125 h 147.61273 v 27.27626 H 93.96666 Z m 0,27.27368 h 147.61273 v 6.27626 H 93.96666 Z m 0,-68.55115 h 147.61273 v 41.27627 H 93.96666 Z"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccc" />
+      <text
+         id="text1149"
+         y="859.11926"
+         x="98.026283"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:4.64881897px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1145"
+           y="859.11926"
+           x="98.026283"
+           sodipodi:role="line">+ headingId: Long</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.33333302px;line-height:4.64881897px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="871.63873"
+           x="98.026283"
+           sodipodi:role="line"
+           id="tspan1147">+ companyName: String</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="291.71991"
+       y="525.19238"
+       id="text1647"><tspan
+         sodipodi:role="line"
+         id="tspan1645"
+         x="291.71991"
+         y="525.19238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">*</tspan></text>
+    <text
+       id="text1651"
+       y="515.94238"
+       x="254.21991"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+         y="515.94238"
+         x="254.21991"
+         id="tspan1649"
+         sodipodi:role="line">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="458.71991"
+       y="525.19238"
+       id="text1861"><tspan
+         sodipodi:role="line"
+         id="tspan1859"
+         x="458.71991"
+         y="525.19238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">*</tspan></text>
+    <path
+       id="path1907"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="m 244.46992,518.94239 5.72504,5.54013 m -5.72504,-5.54013 5.72504,-5.72504 m 50.52496,5.72504 h -56.25"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 512.71992,518.94239 -5.72504,5.54013 m 5.72504,-5.54013 -5.72504,-5.72504 m -50.52496,5.72504 h 56.25"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path1916" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="497.21991"
+       y="515.94238"
+       id="text1920"><tspan
+         sodipodi:role="line"
+         id="tspan1918"
+         x="497.21991"
+         y="515.94238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">1</tspan></text>
+    <g
+       id="g1990"
+       transform="translate(0,20)">
+      <text
+         id="text1924"
+         y="778.11926"
+         x="98.026276"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:10px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           id="tspan1922"
+           y="778.11926"
+           x="98.026276"
+           sodipodi:role="line">Каталог </tspan><tspan
+           id="tspan1984"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:10px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+           y="794.18988"
+           x="98.026276"
+           sodipodi:role="line">предприятий</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:connector-curvature="0"
+         d="M 93.966656,802.34125 H 241.57939 v 7.27626 H 93.966656 Z m 0,7.27368 H 241.57939 v 8.27626 H 93.966656 Z m 0,-51.55115 H 241.57939 v 44.27627 H 93.966656 Z"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path1926" />
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#DiamondM)"
+       d="m 166.46992,734.44239 v 39.25"
+       id="path1992"
+       inkscape:connector-curvature="0" />
+    <text
+       id="text2236"
+       y="751.19238"
+       x="170.71991"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+         y="751.19238"
+         x="170.71991"
+         id="tspan2234"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="171.21991"
+       y="769.94238"
+       id="text2240"><tspan
+         sodipodi:role="line"
+         id="tspan2238"
+         x="171.21991"
+         y="769.94238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">1</tspan></text>
+    <text
+       id="text2244"
+       y="525.19238"
+       x="78.71991"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'"
+         y="525.19238"
+         x="78.71991"
+         id="tspan2242"
+         sodipodi:role="line">*</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="41.21991"
+       y="515.94238"
+       id="text2248"><tspan
+         sodipodi:role="line"
+         id="tspan2246"
+         x="41.21991"
+         y="515.94238"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.66666698px;font-family:'PT Sans';-inkscape-font-specification:'PT Sans'">1</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 31.46992,518.94239 5.72504,5.54013 m -5.72504,-5.54013 5.72504,-5.72504 m 50.52496,5.72504 h -56.25"
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       id="path2250" />
+  </g>
+</svg>
